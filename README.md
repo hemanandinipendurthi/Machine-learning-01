@@ -59,4 +59,4 @@ K-Means clustering is an unsupervised learning algorithm that groups data points
 
 ### **1. Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/mall-customers-clustering.git
+git clone https://github.com/hemanandinipendurthi/mall-customers-clustering.git
